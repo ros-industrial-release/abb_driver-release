@@ -1,3 +1,26 @@
+## abb_driver (noetic) - 1.4.0-1
+
+The packages in the `abb_driver` repository were released into the `noetic` distro by running `/home/klaas/venv_catkin_releases/bin/bloom-release abb_driver --track noetic --rosdistro=noetic --new-track` on `Wed, 31 Aug 2022 15:28:11 -0000`
+
+The `abb_driver` package was released.
+
+Version of package(s) in repository `abb_driver`:
+
+- upstream repository: https://github.com/ros-industrial/abb_driver.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.4.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.11.2`
+- catkin_pkg version: `0.5.2`
+- rosdep version: `0.22.1`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## abb_driver (melodic) - 1.4.0-1
 
 The packages in the `abb_driver` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro=melodic --track=melodic abb_driver --edit` on `Mon, 22 Jun 2020 13:30:54 -0000`
